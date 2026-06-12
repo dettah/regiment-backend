@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: regiment-backend
+    env: python
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn regiment_ai.wsgi:application"
