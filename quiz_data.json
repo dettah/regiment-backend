@@ -1,0 +1,10 @@
+[
+{
+    "model": "core.quizquestion",
+    "pk": 1,
+    "fields": {
+        "question": "What time is Clean Ship conducted?",
+        "answer": "0530hrs"
+    }
+}
+]
